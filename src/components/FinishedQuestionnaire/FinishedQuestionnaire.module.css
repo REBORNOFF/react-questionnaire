@@ -1,0 +1,28 @@
+.FinishedQuestionnaire {
+    padding: 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.FinishedQuestionnaire ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+
+.FinishedQuestionnaire ul li i {
+    margin-left: 10px;
+}
+
+.success {
+    color: rgba(40, 183, 118, 0.7);
+}
+
+.error {
+    color: rgba(240, 87, 108, .7);
+}
+
